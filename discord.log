@@ -1,0 +1,4 @@
+2023-08-04 20:11:16,984:DEBUG:discord.client: on_ready has successfully been registered as an event
+2023-08-04 20:11:16,984:DEBUG:discord.client: on_message has successfully been registered as an event
+2023-08-04 20:11:16,985:INFO:discord.client: logging in using static token
+2023-08-04 20:11:17,615:INFO:discord.gateway: Shard ID None has connected to Gateway (Session ID: 6b8b323699cb9a88bd707ab5056966f9).
